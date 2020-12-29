@@ -19,6 +19,10 @@
     "@angular/platform-browser": "~11.0.5",
     "@angular/platform-browser-dynamic": "~11.0.5",
     "@angular/router": "~11.0.5",
+    "@vaadin/vaadin-button": "^2.4.0",
+    "@vaadin/vaadin-grid": "^5.7.7",
+    "@vaadin/vaadin-tabs": "^3.2.0",
+    "@vaadin/vaadin-text-field": "^2.8.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
